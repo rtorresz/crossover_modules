@@ -1,0 +1,4 @@
+AuthName "Privado"
+AuthType Basic
+AuthUserFile /usr/local/apache2/htdocs/passwd.apache
+Require valid-user
